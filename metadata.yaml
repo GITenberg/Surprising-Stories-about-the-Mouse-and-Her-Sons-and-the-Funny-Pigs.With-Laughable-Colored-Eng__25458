@@ -1,0 +1,30 @@
+_repo: Surprising-Stories-about-the-Mouse-and-Her-Sons-and-the-Funny-Pigs.With-Laughable-Colored-Eng__25458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2008-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcc 'PZ'
+tableOfContents: The mouse and her sons -- The little pig's ramble from home -- The
+  little pig's tale.
+title: 'Surprising Stories about the Mouse and Her Sons, and the Funny Pigs.
+
+  With Laughable Colored Engravings'
+url: http://www.gutenberg.org/ebooks/25458
